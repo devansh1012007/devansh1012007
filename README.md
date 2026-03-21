@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a developer passionate about [GenAI workflows, Startup].<br>🔭 Currently working on: [Echo flow, AI Corporate Psychologist, many more].<br>🌱 Currently learning: [Machine Learning, C++].<br>👯 Looking to collaborate on: [Type of Projects,Open Source, Hackathons].<br>💬 Ask me about: [Django, GenAI workflows].<br>📫 How to reach me: [https://www.linkedin.com/in/devansh-gaur-248127259/].<br>⚡ Fun fact: [I am startup enthusiast]
+💻 I'm a developer passionate about GenAI workflows, Startup, Backend, Machine Learning, Trading, Robotics.<br>🔭 Currently working on: Echo flow, AI Corporate Psychologist, Many more.<br>🌱 Currently learning: Machine Learning, C++, FastAPI.<br>👯 Looking to collaborate on: Open Source, Hackathons.<br>💬 Ask me about: Django, GenAI workflows.<br>🔍 Always curious about future technologies & research.
 
 
 ## 🌐 Socials:
