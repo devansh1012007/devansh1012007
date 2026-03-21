@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a developer passionate about GenAI workflows, Startup, Backend, Machine Learning, Trading, Robotics.<br>🔭 Currently working on: Echo flow, AI Corporate Psychologist, Many more.<br>🌱 Currently learning: Machine Learning, C++, FastAPI.<br>👯 Looking to collaborate on: Open Source, Hackathons.<br>💬 Ask me about: Django, GenAI workflows.<br>🔍 Always curious about future technologies & research.
+I'm a developer passionate about GenAI workflows, Startup, Backend, Machine Learning, Trading, Robotics.<br> Currently working on: Echo flow, AI Corporate Psychologist, Many more.<br> Currently learning: Machine Learning, C++, FastAPI.<br> Looking to collaborate on: Open Source, Hackathons, Startups.<br> Always curious about future technologies & research.
 
 
 ## 🌐 Socials:
