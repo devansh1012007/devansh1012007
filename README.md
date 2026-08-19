@@ -1,5 +1,5 @@
 <h1 align="center">Devansh Gaur</h1>
-<p align="center">Building AI systems — from trading agents to robotics to recommendation engines</p>
+<p align="center">Building AI systems — from trading agents to robotics to AI harness </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devansh-gaur-248127259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
