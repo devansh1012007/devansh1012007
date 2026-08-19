@@ -33,19 +33,13 @@ CS student at VIT Bhopal, active in the Robotics Club. I build backend and ML sy
 
 ### Tech stack
 
-**Languages:** Python · C++ · JavaScript
-**Backend:** Django · Django REST Framework · FastAPI · Celery
-**Data / ML:** PyTorch · TensorFlow · LightGBM · pandas
-**Infra / DB:** PostgreSQL · MySQL · MongoDB · Redis · Docker
-**Robotics:** ROS · Arduino
-**Tools:** Git · GitHub · Postman
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devansh1012007&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh1012007&hide_border=true" height="165"/>
-</p>
+- **Languages:** Python · C++ · JavaScript
+- **Backend:** Django · Django REST Framework · FastAPI · Celery
+- **Data / ML:** PyTorch · TensorFlow · LightGBM · pandas
+- **AI Orchestration:** LangChain · LangGraph · LlamaIndex   
+- **Infra / DB:** PostgreSQL · MongoDB · Redis · Docker
+- **Robotics:** ROS · Arduino
+- **Tools:** Git · GitHub · Postman
 
 ---
 
