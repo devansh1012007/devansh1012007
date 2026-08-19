@@ -1,11 +1,52 @@
-# About Me:
-I'm a developer passionate about GenAI workflows, Startup, Backend, ML, Trading, Robotics.<br> Currently working on: Echo flow, Personal Automation Agent, Many more.<br> Currently learning: Machine Learning, ROS, JS .<br> Looking to collaborate on: Open Source, Hackathons, Startups.<br> Always curious about future technologies & research.
+<h1 align="center">Devansh Gaur</h1>
+<p align="center">Building AI systems — from trading agents to robotics to recommendation engines</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-gaur-248127259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Devanshshailendragaur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/devansh.mhk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devansh.mhk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devansh-gaur-248127259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Devanshshailendragaur@gmail.com) 
+---
 
-# Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+### About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+CS student at VIT Bhopal, active in the Robotics Club. I build backend and ML systems end-to-end — from architecture to deployment — with a focus on AI agents, trading systems, and robotics. Currently spending most of my time on AI systems engineering.
+
+---
+
+### What I'm building
+
+**🔊 EchoFlow** — Backend for an audio-only short-form content platform (audio "reels"). Multi-stage recommendation pipeline: content-based retrieval → LightGCN graph embeddings → sequential ranking, with Whisper transcription and hybrid semantic + acoustic vector search.
+`Django` `Celery` `PostgreSQL + pgvector` `Redis` `Whisper`
+[→ repo](https://github.com/devansh1012007/EchoFlow)
+
+**📈 BTC Scalping Trading Agent** — A hierarchical trading system for 30s–1m timeframes: market data → feature engine → dynamic support/resistance detection → regime detection (HMM + LightGBM) → an expert layer (trend / mean-reversion / breakout) → router → risk & execution, with full monitoring and a model registry. Runs end-to-end on a 12GB-RAM laptop, no GPU.
+`Python` `CCXT` `LightGBM` `hmmlearn` `pandas`
+[→ repo](https://github.com/devansh1012007/Btc_trading_agents)
+
+**🦾 IRobots — Language-Controlled Robotic Arm** — Hackathon project: a robotic arm driven by natural language instead of fixed motion scripts. A vision model reads the scene, an LLM makes tool calls to select objects and target positions, coordinates go through inverse kinematics, and a simulator validates the path before any real movement — built to generalize better and need less data than a fine-tuned vision-action-language model.
+`LLM tool-calling` `YOLO` `Inverse Kinematics`
+[→ repo](https://github.com/devansh1012007/IRobots-Devansh_Gaur)
+
+---
+
+### Tech stack
+
+**Languages:** Python · C++ · JavaScript
+**Backend:** Django · Django REST Framework · FastAPI · Celery
+**Data / ML:** PyTorch · TensorFlow · LightGBM · pandas
+**Infra / DB:** PostgreSQL · MySQL · MongoDB · Redis · Docker
+**Robotics:** ROS · Arduino
+**Tools:** Git · GitHub · Postman
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh1012007&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh1012007&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Looking to collaborate on open source, hackathons, and early-stage startups.</i></p>
